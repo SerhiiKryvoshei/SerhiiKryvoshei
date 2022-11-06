@@ -10,7 +10,7 @@
   <a href="https://t.me/SerhiiKryvoshei" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegam&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%88%D0%B5%D0%B9-1b7053231/" target="_blank">
+  <a href="https://www.linkedin.com/in/serhii-kryvoshei-1b7053231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
